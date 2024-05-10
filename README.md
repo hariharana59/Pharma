@@ -442,7 +442,7 @@ Publish the website in the LocalHost.
 ### web.html
 ![web](<Screenshot 2024-05-10 234025.png>)
 
-### produt.html
+### product.html
 ![alt text](<Screenshot 2024-05-10 234050.png>)
 
 ### contact.html
